@@ -5,5 +5,5 @@ void main()
 {
   int x = 5, y = 5;
   int z = x + y;
-  printf("O valor de z e: %d", z);
+  printf("O valor de z é: %d\n", z);
 }

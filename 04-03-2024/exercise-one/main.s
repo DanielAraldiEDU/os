@@ -2,7 +2,7 @@
 	.text
 	.section	.rodata
 .LC0:
-	.string	"O valor de z e: %d"
+	.string	"O valor de z \303\251: %d\n"
 	.text
 	.globl	main
 	.type	main, @function
